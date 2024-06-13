@@ -1,4 +1,4 @@
-# Pandoc_Document_Converter
+# Pandoc Document Converter
 
 This repository outlines briefly how to utilize the Pandoc universal document converter command-line tool. The pandoc release version 3.2 for MacOS obtained from the official releases list on [jgm/pandoc](pandoc-3.2-x86_64-macOS.pkg) was utilized.
 
